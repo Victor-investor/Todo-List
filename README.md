@@ -1,2 +1,2 @@
 # Todo-List
-A todo-list repository using react
+A  repository for todo-list project using react
